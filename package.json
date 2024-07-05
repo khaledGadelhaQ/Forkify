@@ -1,0 +1,22 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "rm -r .parcel-cache && parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "khaled gadelhaq",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "fracty": "^1.0.11",
+    "live-server": "^1.2.2",
+    "parcel": "^2.12.0",
+    "regenerator-runtime": "^0.14.1",
+    "sass": "^1.77.4"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0"
+  }
+}
