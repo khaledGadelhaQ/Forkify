@@ -109,6 +109,7 @@ const controlUploadRecipe = async function(data) {
 
 (function () {
   // publisher-subscribur pattern
+  console.log('Welcome to Forkify!');
   bookmarksView.addHandlerRender(loadBookmark);
   recipeView.addHandlerRender(getRecipe);
   recipeView.addHandlerUpdateServings(controlServings);
