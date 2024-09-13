@@ -130,7 +130,7 @@ export const uploadRecipe = async function (newRecipe) {
 };
 
 (function () {
-  localStorage.clear();
+  // localStorage.clear();
   const data = localStorage.getItem('bookmarks');
   if (!data) return;
   state.bookmarks = JSON.parse(data);
