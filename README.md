@@ -26,10 +26,10 @@
 - Search
   - Enables users to search for a lot of food recipes.
 - Bookmark
-  -Users can bookmark their favorite recipes for quick access.
+  - Users can bookmark their favorite recipes for quick access.
 - Add Recipe
-  -Users can add their recipes.
-  -The recipes created by users will be bookmarked as default
+  - Users can add their recipes.
+  - The recipes created by users will be bookmarked as default
 
 
 ---
