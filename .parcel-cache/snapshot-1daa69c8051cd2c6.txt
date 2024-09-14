@@ -1,4 +1,4 @@
-11359
+11363
 61C:\Users\khale\Courses\Projects\Forkify\node_modules\uuid\lib133706169443242628 1
 128C:\Users\khale\Courses\Projects\Forkify\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133706169439812266 0
 91C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\features\async-iterator\map.js133706169463350959 0
@@ -10,7 +10,7 @@
 89C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\modules\esnext.math.scale.js133706169454567776 0
 113C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node133706169448613907 1
 63C:\Users\khale\Courses\Projects\Forkify\node_modules\is-windows133706169439873134 1
-44C:\Users\khale\Courses\Projects\Forkify\dist133706196724044394 1
+44C:\Users\khale\Courses\Projects\Forkify\dist133707641195540659 1
 68C:\Users\khale\Courses\Projects\Forkify\forkify-flowchart-part-1.png133525930429029112 0
 68C:\Users\khale\Courses\Projects\Forkify\node_modules\uuid\lib\rng.js133706169441945920 0
 97C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\transformer-html\node_modules\srcset133706169440618712 1
@@ -91,7 +91,7 @@
 66C:\Users\khale\Courses\Projects\Forkify\node_modules\color-convert133706169441448398 1
 83C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\actual\map\group-by.js133706169458163370 0
 92C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\stable\array-buffer\detached.js133706169451178650 0
-50C:\Users\khale\Courses\Projects\Forkify\index.html133706043268319489 0
+50C:\Users\khale\Courses\Projects\Forkify\index.html133707616899783222 0
 91C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\modules\web.clear-immediate.js133706169473690715 0
 57C:\Users\khale\Courses\Projects\Forkify\src\js\confing.js133706195470113344 0
 82C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\full\instance\some.js133706169467222538 0
@@ -210,7 +210,7 @@
 121C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\inlineStyles.js133706169445092914 0
 102C:\Users\khale\Courses\Projects\Forkify\node_modules\serve-index\public\icons\page_white_cplusplus.png133706169446135269 0
 85C:\Users\khale\Courses\Projects\Forkify\node_modules\nth-check\lib\esm\compile.js.map133706169443285325 0
-55C:\Users\khale\Courses\Projects\Forkify\src\js\model.js133706140271503957 0
+55C:\Users\khale\Courses\Projects\Forkify\src\js\model.js133706890257466816 0
 52C:\Users\khale\Courses\Projects\Forkify\src\js\Views133706045751419998 1
 68C:\Users\khale\Courses\Projects\Forkify\node_modules\sass\types\util133706169448046685 1
 85C:\Users\khale\Courses\Projects\Forkify\node_modules\postcss-value-parser\lib\unit.js133706169440916419 0
@@ -1764,7 +1764,7 @@
 86C:\Users\khale\Courses\Projects\Forkify\node_modules\update-browserslist-db\index.d.ts133706169442006844 0
 104C:\Users\khale\Courses\Projects\Forkify\node_modules\css-select\node_modules\domutils\lib\index.d.ts.map133706169445027176 0
 71C:\Users\khale\Courses\Projects\Forkify\node_modules\msgpackr\unpack.js133706169444916296 0
-63C:\Users\khale\Courses\Projects\Forkify\dist\icons.21bad73c.svg133706195852672833 0
+63C:\Users\khale\Courses\Projects\Forkify\dist\icons.21bad73c.svg133707617041451339 0
 92C:\Users\khale\Courses\Projects\Forkify\node_modules\readable-stream\lib\_stream_readable.js133706169440508974 0
 76C:\Users\khale\Courses\Projects\Forkify\node_modules\svgo\dist\svgo-node.cjs133706169441593685 0
 72C:\Users\khale\Courses\Projects\Forkify\node_modules\utils-merge\LICENSE133706169439988582 0
@@ -5626,7 +5626,7 @@
 95C:\Users\khale\Courses\Projects\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node133706169449947247 1
 106C:\Users\khale\Courses\Projects\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo\index.js133706169449284508 0
 84C:\Users\khale\Courses\Projects\Forkify\node_modules\caniuse-lite\data\regions\PH.js133706169452406064 0
-66C:\Users\khale\Courses\Projects\Forkify\dist\index.e37f48ea.js.map133706195852899338 0
+66C:\Users\khale\Courses\Projects\Forkify\dist\index.e37f48ea.js.map133707617041225193 0
 99C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\cjs\_class_private_method_set.cjs133706169445119513 0
 83C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\es\typed-array\sort.js133706169467299636 0
 105C:\Users\khale\Courses\Projects\Forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Atrule.js133706169448569726 0
@@ -7847,6 +7847,7 @@
 85C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\full\typed-array\some.js133706169467242539 0
 126C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133706169445431874 0
 85C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\full\typed-array\sort.js133706169467340376 0
+62C:\Users\khale\Courses\Projects\Forkify\dist\index.c97dc67f.js133707641195475943 0
 88C:\Users\khale\Courses\Projects\Forkify\node_modules\caniuse-lite\data\features\forms.js133706169450720157 0
 89C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\full\typed-array\subarray.js133706169468010597 0
 90C:\Users\khale\Courses\Projects\Forkify\node_modules\core-js\full\typed-array\to-base64.js133706169468550586 0
@@ -9731,7 +9732,7 @@
 68C:\Users\khale\Courses\Projects\Forkify\node_modules\braces\index.js133706169440825571 0
 63C:\Users\khale\Courses\Projects\Forkify\node_modules\braces\lib133706169441835556 1
 72C:\Users\khale\Courses\Projects\Forkify\node_modules\braces\package.json133706169442306011 0
-55C:\Users\khale\Courses\Projects\Forkify\dist\index.html133706196724044394 0
+55C:\Users\khale\Courses\Projects\Forkify\dist\index.html133707641195475943 0
 74C:\Users\khale\Courses\Projects\Forkify\node_modules\braces\lib\compile.js133706169439011271 0
 73C:\Users\khale\Courses\Projects\Forkify\node_modules\braces\lib\expand.js133706169440323731 0
 88C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\_\_update\package.json133706169450334641 0
@@ -9967,7 +9968,7 @@
 85C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\_\_jsx\package.json133706169450030802 0
 111C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose\package.json133706169450002827 0
 105C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\_\_iterable_to_array_limit\package.json133706169450017833 0
-62C:\Users\khale\Courses\Projects\Forkify\dist\index.e37f48ea.js133706195852885893 0
+62C:\Users\khale\Courses\Projects\Forkify\dist\index.e37f48ea.js133707617041150823 0
 99C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\_\_iterable_to_array\package.json133706169450030802 0
 109C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133706169450002827 0
 100C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\_\_is_native_function\package.json133706169449978473 0
@@ -10167,6 +10168,7 @@
 94C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\cjs\_array_without_holes.cjs133706169441295807 0
 91C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\cjs\_array_with_holes.cjs133706169440951091 0
 98C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\cjs\_assert_this_initialized.cjs133706169441613788 0
+74C:\Users\khale\Courses\Projects\Forkify\dist\index.runtime.c943ebc1.js.map133707641195529271 0
 90C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\cjs\_async_generator.cjs133706169442306011 0
 93C:\Users\khale\Courses\Projects\Forkify\node_modules\@swc\helpers\cjs\_async_to_generator.cjs133706169442906790 0
 103C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers133706169441765417 1
@@ -10490,7 +10492,7 @@
 104C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\rust\parcel-node-bindings.darwin-arm64.node133706169449773990 0
 102C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\rust\parcel-node-bindings.darwin-x64.node133706169450660354 0
 111C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\rust\parcel-node-bindings.linux-arm-gnueabihf.node133706169451331763 0
-65C:\Users\khale\Courses\Projects\Forkify\dist\favicon.8b2f57bf.png133706195852800124 0
+65C:\Users\khale\Courses\Projects\Forkify\dist\favicon.8b2f57bf.png133707617040932420 0
 87C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\runtime-service-worker\lib133706169438894790 1
 91C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\runtime-service-worker\LICENSE133706169438354432 0
 87C:\Users\khale\Courses\Projects\Forkify\node_modules\@parcel\runtime-service-worker\src133706169439672466 1
@@ -11295,7 +11297,7 @@
 101C:\Users\khale\Courses\Projects\Forkify\node_modules\@babel\highlight\node_modules\has-flag\readme.md133706169440252051 0
 108C:\Users\khale\Courses\Projects\Forkify\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133706169441496217 0
 102C:\Users\khale\Courses\Projects\Forkify\node_modules\@babel\highlight\node_modules\color-name\index.js133706169440784509 0
-63C:\Users\khale\Courses\Projects\Forkify\dist\index.628a78b8.css133706196724044394 0
+63C:\Users\khale\Courses\Projects\Forkify\dist\index.628a78b8.css133707641195475943 0
 106C:\Users\khale\Courses\Projects\Forkify\node_modules\@babel\highlight\node_modules\color-name\package.json133706169438480295 0
 103C:\Users\khale\Courses\Projects\Forkify\node_modules\@babel\highlight\node_modules\color-name\README.md133706169439597171 0
 101C:\Users\khale\Courses\Projects\Forkify\node_modules\@babel\highlight\node_modules\color-name\test.js133706169441163210 0
@@ -11345,16 +11347,18 @@
 62C:\Users\khale\Courses\Projects\Forkify\node_modules\.bin\uuid133706169474908709 0
 66C:\Users\khale\Courses\Projects\Forkify\node_modules\.bin\uuid.cmd133706169474908709 0
 66C:\Users\khale\Courses\Projects\Forkify\node_modules\.bin\uuid.ps1133706169474898035 0
-65C:\Users\khale\Courses\Projects\Forkify\dist\favicon.42656662.png133706196719975206 0
-63C:\Users\khale\Courses\Projects\Forkify\dist\icons.c14567a0.svg133706196724044394 0
-63C:\Users\khale\Courses\Projects\Forkify\dist\icons.dfd7a6db.svg133706195853065166 0
+65C:\Users\khale\Courses\Projects\Forkify\dist\favicon.42656662.png133707641190617489 0
+63C:\Users\khale\Courses\Projects\Forkify\dist\icons.c14567a0.svg133707641194637571 0
+63C:\Users\khale\Courses\Projects\Forkify\dist\icons.dfd7a6db.svg133707617041766869 0
 62C:\Users\khale\Courses\Projects\Forkify\dist\index.3f7e24fa.js133706196724044394 0
 66C:\Users\khale\Courses\Projects\Forkify\dist\index.3f7e24fa.js.map133706196724044394 0
-67C:\Users\khale\Courses\Projects\Forkify\dist\index.628a78b8.css.map133706196724044394 0
+67C:\Users\khale\Courses\Projects\Forkify\dist\index.628a78b8.css.map133707641195529271 0
 66C:\Users\khale\Courses\Projects\Forkify\dist\index.768b0ee5.js.map133706170816868836 0
-63C:\Users\khale\Courses\Projects\Forkify\dist\index.f7626f62.css133706195852790035 0
-67C:\Users\khale\Courses\Projects\Forkify\dist\index.f7626f62.css.map133706195852818314 0
+66C:\Users\khale\Courses\Projects\Forkify\dist\index.c97dc67f.js.map133707641195529271 0
+63C:\Users\khale\Courses\Projects\Forkify\dist\index.f7626f62.css133707617040860264 0
+67C:\Users\khale\Courses\Projects\Forkify\dist\index.f7626f62.css.map133707617040952422 0
 70C:\Users\khale\Courses\Projects\Forkify\dist\index.runtime.b4217b75.js133706196724044394 0
 74C:\Users\khale\Courses\Projects\Forkify\dist\index.runtime.b484740d.js.map133706170816868836 0
-62C:\Users\khale\Courses\Projects\Forkify\dist\logo.726d37a8.png133706195852912535 0
-62C:\Users\khale\Courses\Projects\Forkify\dist\logo.833dfef5.png133706196721571331 0
+70C:\Users\khale\Courses\Projects\Forkify\dist\index.runtime.c943ebc1.js133707641195475943 0
+62C:\Users\khale\Courses\Projects\Forkify\dist\logo.726d37a8.png133707617041298748 0
+62C:\Users\khale\Courses\Projects\Forkify\dist\logo.833dfef5.png133707641192092350 0
