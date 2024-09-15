@@ -27,6 +27,8 @@
   - Enables users to search for a lot of food recipes.
 - Bookmark
   - Users can bookmark their favorite recipes for quick access.
+- Servings
+  - Easily customize recipe ingredients by adjusting the number of servings.
 - Add Recipe
   - Users can add their recipes.
   - The recipes created by users will be bookmarked as default
@@ -40,19 +42,20 @@
 - JavaScript (MVC Aricheture)
 
 ---
+
 ## Demonstration 🖥️
 
 #### search
 
-![Search]()
+![Search](https://github.com/khaledGadelhaQ/Forkify/blob/main/src/img/recipeSearch.gif)
 
 #### Bookmark a recipe
 
-![Bookmark Recipe]()
+![Bookmark Recipe](https://github.com/khaledGadelhaQ/Forkify/blob/main/src/img/recipeBookmark.gif)
 
 #### Add recipe
 
-![Add Recipe]()
+![Add Recipe](https://github.com/khaledGadelhaQ/Forkify/blob/main/src/img/recipeUpload.gif)
 
 
 ---
