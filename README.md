@@ -38,7 +38,7 @@
 
 ## Build With 🏗️
 - HTML
-- SASS
+- SCSS
 - JavaScript (MVC Aricheture)
 
 ---
